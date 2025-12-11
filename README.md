@@ -26,5 +26,3 @@ The project allows users to create accounts, authenticate securely, deposit/with
 
 ---
 
-## 📂 Project Structure
-
